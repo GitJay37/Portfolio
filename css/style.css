@@ -1,0 +1,142 @@
+*{box-sizing: border-box;}
+body{
+	background: url("../images/Junior.jpg");
+	background-size: cover;
+	background-position: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+}
+nav, a {
+	text-align: right;
+	right: 0; 
+	color: Darkblue;
+	margin: 10px 1px 0px 0px;
+	font-weight: bold;
+	text-decoration: none;
+}
+	img {
+	border: 7px solid white;
+	position: absolute;
+	right: 0; 
+	border-radius: 50%;
+	margin: 155px 0px 0px 0px;
+}
+.menu{
+	position: block;
+  	background-color: #00008B;
+  	color: Darkblue;
+  	text-align: right;
+  	padding: 25px;
+  	background: url("../images/cielo.jpg");
+  	background-size: cover;
+	background-position: center;
+	border: 3px solid #48D1CC;
+	border-radius: 13px;
+}
+li#dp123{
+	text-align: left;
+}
+p#dp3{
+	text-align: left;
+}
+div#dc{
+	margin: auto;
+	margin-top: 10px;
+	width: 950px;
+	height: 415px;
+	border: 3px solid white;
+	border-radius: 8px;
+}
+div#dp1{
+	width: 300px;
+	height: 335px;
+	background-color: red;	
+	float: left; 
+	border-radius: 8px;
+	border: 3px solid Darkblue;
+	background: url("../images/Quilla.jpg");
+	background-size: cover;
+	background-position: center;
+	color: white;
+	margin: 5px 5px 5px 5px;
+}
+div#dp2{
+	width: 300px;
+	height: 335px;
+	background-color: white;	 
+	float: left; 
+	border-radius: 8px;
+	border: 3px solid Darkblue;
+	background: url("../images/playasalgar.jpg");
+	background-size: cover;
+	background-position: center;
+	color: white;
+	margin: 5px 5px 5px 5px;
+}
+div#dp3{
+	width: 300px;
+	height: 335px;
+	background-color: blue;	 
+	float: left; 
+	border-radius: 8px;
+	border: 3px solid Darkblue;
+	background: url("../images/metro.jpg");
+	background-size: cover;
+	background-position: center;
+	color: white;
+	margin: 5px 5px 5px 5px;
+}
+div#ostudies{
+	margin: auto;
+	margin-top: 10px;
+	width: 950px;
+	height: 730px;
+	border: 3px solid white;
+	border-radius: 8px;
+	background-color: white;
+	background: url("../images/J&R.jpg");
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
+hr {
+  background-color: white;
+  height: 3px;
+  margin-left: 0%;
+  width: 70%;
+}
+h2#backgr1{
+	background: #000080;
+	margin: 10px 310px 10px 310px;
+	border-radius: 10px;
+	border: 2px solid white;
+	text-align: center;
+	color: white;
+}
+h2#backgr2{
+	background: #000080;
+	margin: 10px 310px 10px 270px;
+	border-radius: 10px;
+	border: 2px solid white;
+	text-align: center;
+	color: white;
+}
+div#experience{
+	margin: auto;
+	margin-top: 10px;
+	width: 950px;
+	height: 900px;
+	border: 3px solid white;
+	border-radius: 8px;
+	background-color: white;
+	background: url("../images/super.jpg");
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
+footer{
+	padding: 170px 0;
+	text-align: center;
+	font-size: 38px;
+	color: darkblue;
+}
